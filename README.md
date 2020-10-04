@@ -1,4 +1,4 @@
-#PHP CRUD w/ MySQL DB
+# PHP CRUD w/ MySQL DB
 ## El objetivo de esta app contiene las operaciones básicas:
 - Create (Crear registros)
 - Read OR Retrieve (Leer registros)
